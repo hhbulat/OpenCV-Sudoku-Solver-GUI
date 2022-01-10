@@ -18,6 +18,7 @@ YES. Predicted digits with deep learning model. Go to result.
 You viewing result on the top. Result time is less than one second. 
 
 GUI Page:
+
 ![](https://github.com/hhbulat/OpenCV-Sudoku-Solver-GUI/blob/main/solution_pics/gui_empty_page.png?raw=true)
 
 Thank you.
